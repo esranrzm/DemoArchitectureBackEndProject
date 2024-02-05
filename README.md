@@ -1,5 +1,5 @@
 # Sample .NET Core 6 BackEnd Project
-Welcome to the README for our .NET 6 backend project! This project is designed to handle user management, user operation claims, and operation claims efficiently through the use of Entity Framework, Fluent Validation, OTP (One-Time Password), DTOs (Data Transfer Objects), and other SOLID principles.
+Welcome to the README for our .NET 6 backend project! This project is designed to handle user management, user operation claims, and operation claims efficiently through the use of Entity Framework, Fluent Validation, DTOs (Data Transfer Objects), and other SOLID principles.
 
 
 ## Project Overview
@@ -15,5 +15,4 @@ My backend project provides CRUD (Create, Read, Update, Delete) operations for t
 * .NET 6: The latest version of the .NET framework for building scalable and performant applications.
 * Entity Framework: A powerful ORM (Object-Relational Mapping) tool for interacting with the database.
 * Fluent Validation: A library for defining and enforcing validation rules in a fluent manner.
-* OTP (One-Time Password): Used for enhancing security through two-factor authentication.
 * DTOs (Data Transfer Objects): Used to transfer data between different layers of the application, improving separation of concerns.
